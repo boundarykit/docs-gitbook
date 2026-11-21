@@ -1,0 +1,3 @@
+# configuration.changed
+
+BoundaryKit sends a POST with a JSON payload matching `Decision`. Return HTTP 204 after accepting the delivery.

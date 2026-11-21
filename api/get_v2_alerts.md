@@ -1,0 +1,17 @@
+# List alerts
+
+`GET /v2/alerts`
+
+## Parameters
+
+- `X-Organization-Id` (header)
+
+- `cursor` (query)
+
+## Responses
+
+- `200` Request completed.
+
+- `403` Scope denied
+
+- `503` Service unavailable

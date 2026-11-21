@@ -1,0 +1,3 @@
+# alert.opened
+
+BoundaryKit sends a POST with a JSON payload matching `alert.opened`. Return HTTP 204 after accepting the delivery.

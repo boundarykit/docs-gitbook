@@ -1,0 +1,3 @@
+# session.closed
+
+BoundaryKit sends a POST with a JSON payload matching `session.closed`. Return HTTP 204 after accepting the delivery.

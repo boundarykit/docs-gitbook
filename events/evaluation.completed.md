@@ -1,0 +1,3 @@
+# evaluation.completed
+
+BoundaryKit sends a POST with a JSON payload matching `evaluation.completed`. Return HTTP 204 after accepting the delivery.
