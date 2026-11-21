@@ -5,7 +5,7 @@
 ## Documentation
 
 * Overview
-  * [BoundaryKit overview](index.md)
+  * [BoundaryKit](index.md)
   * [Make your first decision](quickstart.md)
   * [Runtime architecture](architecture.md)
   * [Decision vocabulary](glossary.md)
@@ -29,20 +29,20 @@
   * [Replay sessions](test/replay-sessions.md)
   * [Negative cases](test/negative-cases.md)
   * [Nested rule tests](test/nested-rule-tests.md)
-  * [Sandbox isolation tests](test/sandbox-isolation-tests.md)
-  * [Token expiry tests](test/token-expiry-tests.md)
-  * [Tenant separation tests](test/tenant-separation-tests.md)
-  * [Baseline comparisons](test/baseline-comparisons.md)
-  * [Latency budgets](test/latency-budgets.md)
-  * [Evaluation reports](test/evaluation-reports.md)
-  * [Release acceptance](test/release-acceptance.md)
+  * [Check Sandbox isolation tests](test/sandbox-isolation-tests.md)
+  * [Check Token expiry tests](test/token-expiry-tests.md)
+  * [Check Tenant separation tests](test/tenant-separation-tests.md)
+  * [Check Baseline comparisons](test/baseline-comparisons.md)
+  * [Check Latency budgets](test/latency-budgets.md)
+  * [Check Evaluation reports](test/evaluation-reports.md)
+  * [Check Release acceptance](test/release-acceptance.md)
 
 * cookbook
-  * [Limit tool access](cookbook/limit-tool-access.md)
-  * [Scope a support bot](cookbook/scope-a-support-bot.md)
-  * [Isolate a preview agent](cookbook/isolate-a-preview-agent.md)
-  * [Rotate an API key](cookbook/rotate-an-api-key.md)
-  * [Export audit evidence](cookbook/export-audit-evidence.md)
+  * [Check Limit tool access](cookbook/limit-tool-access.md)
+  * [Check Scope a support bot](cookbook/scope-a-support-bot.md)
+  * [Check Isolate a preview agent](cookbook/isolate-a-preview-agent.md)
+  * [Check Rotate an API key](cookbook/rotate-an-api-key.md)
+  * [Check Export audit evidence](cookbook/export-audit-evidence.md)
   * [Replay a denied call](cookbook/replay-a-denied-call.md)
   * [Detect a noisy agent](cookbook/detect-a-noisy-agent.md)
   * [Review policy drift](cookbook/review-policy-drift.md)
@@ -412,3 +412,19 @@
 
 * Start here
   * [CI/CD overview](start/cicd.md)
+
+* [Troubleshoot a denied deployment](documentation/troubleshooting.md)
+
+* [Security and compliance](administration/security-compliance.md)
+
+* [API reference](api-reference.md)
+
+* [Connect an MCP client](mcp.md)
+
+* [Manage policies as code](bac.md)
+
+* [BoundaryQL: Advanced Query Reference](cookbook/BoundaryQL-Reference.md)
+
+* [Policy expression reference](documentation/policy-expression-reference.md)
+
+* [Audit event catalog](documentation/audit-event-catalog.md)
